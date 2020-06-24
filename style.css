@@ -76,7 +76,7 @@ hr {
   background-color: #000000;
 }
 .section1 {
-  background: no-repeat center url("/resources/photo-of-bonfire-3268257.png");
+  background: no-repeat center url("./resources/photo-of-bonfire-3268257.png");
   height: 100%;
 }
 
